@@ -1,0 +1,35 @@
+_repo: Patriotic-Song-A-book-of-English-verse-being-an-anthology-of-the-patriotic-poetry-of-the-Brit__52133
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Welldon, J. E. C. (James Edward Cowell)
+    alias: Welldon, James Edward Cowell
+    birthdate: 1854
+    deathdate: 1937
+    gutenberg_agent_id: '46692'
+    url: http://www.gutenberg.org/2009/agents/46692
+  compiler:
+    agent_name: Stanley, Arthur
+    alias: Megaw, Arthur Stanley
+    birthdate: 1873
+    deathdate: 1961
+    gutenberg_agent_id: '46656'
+    url: http://www.gutenberg.org/2009/agents/46656
+description: ''
+gutenberg_issued: '2016-05-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52133'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry'
+- !lcc 'PR'
+- !lcsh 'Patriotic poetry, English'
+- GITenberg
+title: "Patriotic Song\r\nA book of English verse, being an anthology of the patriotic\
+  \ poetry of the British Empire, from the defeat of the Spanish Armada till the death\
+  \ of Queen Victoria"
+url: http://www.gutenberg.org/ebooks/52133
