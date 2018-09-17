@@ -1,5 +1,5 @@
 _repo: Patriotic-Song-A-book-of-English-verse-being-an-anthology-of-the-patriotic-poetry-of-the-Brit__52133
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   author_of_introduction:
     agent_name: Welldon, J. E. C. (James Edward Cowell)
@@ -15,7 +15,12 @@ contributor:
     deathdate: 1961
     gutenberg_agent_id: '46656'
     url: http://www.gutenberg.org/2009/agents/46656
+covers:
+- cover_type: archival
+  image_path: 52133-h/images/cover.jpg
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/52133#Patriotic-Song-A-book-of-English-verse-being-an-anthology-of-the-patriotic-poetry-of-the-Brit_
 gutenberg_issued: '2016-05-22'
 gutenberg_type: Text
 identifiers:
